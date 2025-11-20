@@ -7,3 +7,7 @@ Console.WriteLine("Hello2222, World!");
 Console.WriteLine("Hello55555, World!");
 //варвлоарв
 //алва
+Console.WriteLine("Hello2222, World!");
+Console.WriteLine("Hello55555, World!");
+//варвлоарв
+//алва
